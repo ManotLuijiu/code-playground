@@ -1,5 +1,5 @@
 {
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
   "highlight-matching-tag.styles": {
     "opening": {
       "left": {
